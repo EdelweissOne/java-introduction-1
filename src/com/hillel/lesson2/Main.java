@@ -1,4 +1,4 @@
-package com.lesson2;
+package com.hillel.lesson2;
 
 public class Main {
     /*  многострочнный комментарий
